@@ -34,9 +34,9 @@ main {
 
 #preview-card {
 	height: 500px;
-	width: 400px;
+	width: 350px;
 	background-color: var(--card-color);
-	border-radius: 10px;
+	border-radius: 12px;
 	padding: 20px;
 	display: flex;
 	flex-direction: column;
